@@ -6,7 +6,7 @@
 
 ## Description
 
-_.this webpage send out alert message when you click on the certain elements of html inside the webpage. The script was written using forEach() loop to refactor the previous work._
+_This webpage send out alert message when you click on the certain elements of html inside the webpage. The script was written using forEach() loop to refactor the previous work._
 
 ## Setup/Installation Requirements
 
